@@ -1,1 +1,2 @@
-# to-read
+# To Read
+- https://learnprompting.org/docs/intro
