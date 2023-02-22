@@ -5,3 +5,4 @@
 - [Trigger.dev, an open source alternative to Zapier](https://github.com/triggerdotdev/trigger.dev), compare to self-hosted [n8n](https://n8n.io/)
 - [Microsoft Prompt Engine](https://github.com/microsoft/prompt-engine) ([comments](https://news.ycombinator.com/item?id=34811070)) 
 - [How to process GPT-3 prompts](https://buildspace.so/notes/processing-gpt3-prompts)
+- [Midjourney prompts](https://docs.midjourney.com/docs/prompts)
