@@ -6,3 +6,4 @@
 - [Microsoft Prompt Engine](https://github.com/microsoft/prompt-engine) ([comments](https://news.ycombinator.com/item?id=34811070)) 
 - [How to process GPT-3 prompts](https://buildspace.so/notes/processing-gpt3-prompts)
 - [Midjourney prompts](https://docs.midjourney.com/docs/prompts)
+- [Prompt Engineering: From Words to Art](https://www.saxifrage.xyz/post/prompt-engineering)
