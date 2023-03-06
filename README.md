@@ -8,3 +8,4 @@
 - [Midjourney prompts](https://docs.midjourney.com/docs/prompts)
 - [Prompt Engineering: From Words to Art](https://www.saxifrage.xyz/post/prompt-engineering)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [There's an AI for That](https://theresanaiforthat.com/)
